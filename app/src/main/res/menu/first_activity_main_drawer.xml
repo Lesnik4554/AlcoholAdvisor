@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/low_alcohol"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/low_alcohol" />
+        <item
+            android:id="@+id/medium_alcohol"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/medium_alcohol" />
+        <item
+            android:id="@+id/strong_alcohol"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/strong_alcohol" />
+    </group>
+
+    <item android:title="@string/communication">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:onClick="onClickShare1"
+                android:title="@string/share" />
+        </menu>
+    </item>
+
+    <item android:title="@string/information">
+        <menu>
+            <item
+                android:id="@+id/politics"
+                android:onClick="onClickPolitics"
+                android:title="@string/politics" />
+        </menu>
+    </item>
+
+</menu>

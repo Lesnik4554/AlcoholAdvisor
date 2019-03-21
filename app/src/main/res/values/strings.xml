@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Алкогольный советник</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Алкогольный советник</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="low_alcohol">Слабоалкогольные</string>
+    <string name="medium_alcohol">Среднеалкогольные</string>
+    <string name="strong_alcohol">Крепкие</string>
+    <string name="communication">Общение</string>
+    <string name="share">Поделиться</string>
+    <string name="information">Информация</string>
+    <string name="politics">Политика Конфедициальности</string>
+    <string name="title_activity_politics_main">Политика Конфедициальности</string>
+    <string name="politics_text1">Для эффективной работы приложения я не собираю и
+                                  не храню персональные данные пользователей.</string>
+    <string name="politics_text2">Какие данные я собираю?</string>
+    <string name="politics_text3">Я не собираю, а поэтому и не храню персональные
+                                  данные пользователей.</string>
+    <string name="politics_text4">Остальная информация</string>
+    <string name="politics_text5">Если вам кажется, что моё приложение собирает приватную
+                                  информацию, незамедлительно свяжитесь со мной
+                                  kirill2595@gmail.com</string>
+    <string name="politics_text6">Чрезмерное употребление алкоголя опасно для здоровья человека.
+                                  Алкоголь противопоказан детям и подросткам до 18 лет.</string>
+</resources>
